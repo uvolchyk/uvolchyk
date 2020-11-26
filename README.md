@@ -1,7 +1,7 @@
 ### Hello! Прывітанне! Привет! 👋
-<!--
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"/>
--->
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="280"/>
+
 I'm an iOS developer. Inspired by people, who change the world with their ideas, i try everyday to learn something new. 
 <br>
 I like cookies and coffee, films and memes, coding and design.
