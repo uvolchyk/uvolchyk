@@ -1,12 +1,12 @@
 ### Hello! Прывітанне! Привет! 👋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="280"/>
-
-I'm an iOS developer. Inspired by people, who change the world with their ideas, i try everyday to learn something new. 
+I'm the iOS developer. 
+<br>
+Every day trying improve myself and the world around.
 <br>
 I like cookies and coffee, films and memes, coding and design.
 <br>
 
 - 🌱 Currently getting a bachelor's degree in math and IT at Belarusian State University
-- 👯 I’m looking to collaborate on any project as a mobile developer
+- 👯 Will be happy to participate in any cool stuff
 - 📫 How to reach me: uladzislau.volchyk@gmail.com
