@@ -10,3 +10,4 @@ I like cookies and coffee, films and memes, coding and design.
 - 🌱 Currently getting a bachelor's degree in math and IT at Belarusian State University
 - 👯 Will be happy to participate in any cool stuff
 - 📫 How to reach me: uladzislau.volchyk@gmail.com
+- 📚 Do sometimes smart thoughts here: [uvolchyk.medium.com](https://uvolchyk.medium.com)
