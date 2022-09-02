@@ -1,13 +1,13 @@
-### Hello! Прывітанне! Привет! 👋
+### Hello! Прывітанне! Привет! 101! 👋
 
 I'm the iOS developer. 
 <br>
-Every day trying improve myself and the world around.
+Looking for my place in this world.
 <br>
-I like cookies and coffee, films and memes, coding and design.
+I like coffee and photography, coding and design.
 <br>
 
-- 🌱 Currently getting a bachelor's degree in math and IT at Belarusian State University
-- 👯 Will be happy to participate in any cool stuff
-- 📫 How to reach me: uladzislau.volchyk@gmail.com
+- 🌱 Bachelor in math and IT
+- 👯 Happy to participate in any cool stuff
+- 📫 uladzislau.volchyk@gmail.com
 - 📚 Do sometimes smart thoughts here: [uvolchyk.medium.com](https://uvolchyk.medium.com)
